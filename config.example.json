@@ -1,0 +1,6 @@
+{
+  "webhookUrl": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN",
+  "botToken": "YOUR_BOT_TOKEN",
+  "top": 10,
+  "mode": "battle-royale"
+}
